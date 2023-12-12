@@ -30,3 +30,4 @@ C:\Users\GATEWAY\Desktop\.NET\web-api-movies\web-api-movies\obj\Debug\net8.0\ref
 C:\Users\GATEWAY\Desktop\.NET\web-api-movies\web-api-movies\obj\Debug\net8.0\web-api-movies.pdb
 C:\Users\GATEWAY\Desktop\.NET\web-api-movies\web-api-movies\obj\Debug\net8.0\web-api-movies.genruntimeconfig.cache
 C:\Users\GATEWAY\Desktop\.NET\web-api-movies\web-api-movies\obj\Debug\net8.0\ref\web-api-movies.dll
+C:\Users\GATEWAY\Desktop\.NET\web-api-movies\web-api-movies\obj\Debug\net8.0\web-api-movies.sourcelink.json
